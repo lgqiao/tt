@@ -1,1 +1,2 @@
-start\n
+start
+
